@@ -9,6 +9,6 @@ func main() {
 	username := "Divyansh Sharma"
 	fmt.Println(username)
 	fmt.Printf("Variable is of type: %T \n", username)
-	fmt.Println(LoginToken)
+	fmt.Pri =kjdjhntln(LoginToken)
 	fmt.Printf("Varible is of type : %T\n", LoginToken)
 }
