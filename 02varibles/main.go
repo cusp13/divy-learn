@@ -6,13 +6,9 @@ import "fmt"
 const LoginToken string = "badl"
 
 func main() {
-	username := "Divyansh"
+	username := "Divyansh Sharma"
 	fmt.Println(username)
 	fmt.Printf("Variable is of type: %T \n", username)
-
-	var smallVal float32 = 25.7656352
-	fmt.Println(smallVal)
-	fmt.Printf("Variable is of type: %T \n", smallVal)
 
 	// default value
 	var value int
